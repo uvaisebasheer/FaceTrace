@@ -1,0 +1,6 @@
+bin/
+obj/
+*.user
+.vs/
+multifacerec.db
+models/*.onnx

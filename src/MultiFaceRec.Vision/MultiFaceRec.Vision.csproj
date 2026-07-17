@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>MultiFaceRec.Vision</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+   
+    <PackageReference Include="OpenCvSharp4" Version="4.13.0.20260627" />
+    <PackageReference Include="OpenCvSharp4.runtime.win" Version="4.13.0.20260602" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MultiFaceRec.Core\MultiFaceRec.Core.csproj" />
+  </ItemGroup>
+
+</Project>
