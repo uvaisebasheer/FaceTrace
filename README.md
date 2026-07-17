@@ -35,17 +35,7 @@ Architecture components of FaceTrace are YuNet, SFace embeddings, SQLite, BCrypt
 
 ## Screenshot
 
-<div align="center">
 
-
-
-
-![App screenshot](docs/Screenshot1.png)
-
-
-![App screenshot](docs/Screenshot2.png)
-
-</div>
 <div align="center">
 
 ![App screenshot](docs/Screenshot3.png)
